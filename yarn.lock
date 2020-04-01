@@ -1042,7 +1042,7 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-graphql-playground@^1.0.13":
+"@lekoarts/gatsby-theme-graphql-playground@^1.0.14":
   version "1.0.14"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-graphql-playground/-/gatsby-theme-graphql-playground-1.0.14.tgz#4f930e4b5517d8b47b3e7f41d53c22d75029ace5"
   integrity sha512-QZqK6lns/yeizdy2NYNhVUsmSaMG3kMR7zz92cufX1+fUQ9NGifqJpIDXS1cIp8FS3fmnn1DezDqIVd63dHX7w==
