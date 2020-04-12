@@ -1044,9 +1044,9 @@
     "@hapi/hoek" "^8.3.0"
 
 "@lekoarts/gatsby-theme-graphql-playground@^1.0.15":
-  version "1.0.15"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-graphql-playground/-/gatsby-theme-graphql-playground-1.0.15.tgz#a01c7c73c4b4a357c482f7da17d9cfa2e0e7b499"
-  integrity sha512-ituDH1GT49/2INWGEQScXe3Gpj/wJjb/CWKt/OzKHP9DbjwF/Z75dBWEt6p/YvsS4LRJMcMZ1qfQlAC82+yvBg==
+  version "1.0.16"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-graphql-playground/-/gatsby-theme-graphql-playground-1.0.16.tgz#39455ffaa930fc782856660bd0c4cd2c242d1d99"
+  integrity sha512-SACCgO9r4/SMefWiwyl+cdk0hYttSAgpXBfa0W5cLVcGqHfztTWOnmOEv4Odpn6+9rTM0jez2YTluvhLrvYVNg==
   dependencies:
     "@emotion/core" "^10.0.28"
     "@mdx-js/mdx" "^1.5.8"
