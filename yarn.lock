@@ -1043,10 +1043,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-graphql-playground@^1.0.16":
-  version "1.0.16"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-graphql-playground/-/gatsby-theme-graphql-playground-1.0.16.tgz#39455ffaa930fc782856660bd0c4cd2c242d1d99"
-  integrity sha512-SACCgO9r4/SMefWiwyl+cdk0hYttSAgpXBfa0W5cLVcGqHfztTWOnmOEv4Odpn6+9rTM0jez2YTluvhLrvYVNg==
+"@lekoarts/gatsby-theme-graphql-playground@^1.0.17":
+  version "1.0.17"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-graphql-playground/-/gatsby-theme-graphql-playground-1.0.17.tgz#7e7affab21ac4f9c8f15aaeb765d7fcc5a9c23aa"
+  integrity sha512-SQ7GOPtMFzLlfO8TS5dN23Tj15GjWy/jll+mr52xYkxvq0Fkh1hVo3GEcHo4fQ0ZRfEGB86z4WQort87QsSA+A==
   dependencies:
     "@emotion/core" "^10.0.28"
     "@mdx-js/mdx" "^1.5.8"
@@ -1054,8 +1054,8 @@
     "@theme-ui/presets" "^0.2.44"
     "@theme-ui/prism" "^0.2.50"
     "@theme-ui/sidenav" "^0.2.53"
-    gatsby-plugin-mdx "^1.1.4"
-    gatsby-plugin-react-helmet "^3.2.1"
+    gatsby-plugin-mdx "^1.1.7"
+    gatsby-plugin-react-helmet "^3.2.2"
     gatsby-plugin-theme-ui "^0.2.53"
     gatsby-plugin-typescript "^2.3.1"
     gatsby-source-filesystem "^2.2.2"
@@ -5093,7 +5093,7 @@ gatsby-page-utils@^0.1.1:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-mdx@^1.1.4:
+gatsby-plugin-mdx@^1.1.7:
   version "1.1.7"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.1.7.tgz#af94eff3f10ae2475ac0714b08f3e97d0fc77b0f"
   integrity sha512-CTEeZQQ/hYDPv9mX06259zwiQc67OGBPzigBL8ZEMSgg5ANzzfR143Wd74RGPvT04GnMNjfWKcg8yBPTf75EaA==
@@ -5158,7 +5158,7 @@ gatsby-plugin-page-creator@^2.2.1:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-react-helmet@^3.2.1:
+gatsby-plugin-react-helmet@^3.2.2:
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.2.2.tgz#8817da61cd57b8fd9cf1cc6fb55c1e9564aa6a3c"
   integrity sha512-mPd7gefGIxqAuxFJgDuttR9+DnRLKLrCh61ND1iLSeOp9GoYS/qH8Rhka6fkpmBXOtUVyujzaUthhB/ll/a4RA==
