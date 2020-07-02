@@ -1131,26 +1131,26 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lekoarts/gatsby-theme-graphql-playground@^1.1.7":
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-graphql-playground/-/gatsby-theme-graphql-playground-1.1.7.tgz#9d246cb250ac387905c8db54bf72255987446b65"
-  integrity sha512-81VG/ff/w5vUwoISFdb14hiNdZM//Oyh4Wtm+b+IdhetgQXLjn6p7Sd85QyzQri8xHk+8eoqjtEJ6rK7TktAQA==
+"@lekoarts/gatsby-theme-graphql-playground@^1.1.8":
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-graphql-playground/-/gatsby-theme-graphql-playground-1.1.8.tgz#1fce3b5b7aff84849bcbc9569842a8a286dbfaf7"
+  integrity sha512-O1HL/Eb4KGAdyvc8b2auiQZiQqiNmPbfTQluBdDO+VpwX4J+SkQJhXknAgCrodqr0qltmaQXJDyjsmIRk30jOA==
   dependencies:
-    "@mdx-js/mdx" "^1.6.5"
+    "@mdx-js/mdx" "^1.6.6"
     "@theme-ui/presets" "^0.3.0"
     "@theme-ui/prism" "^0.3.0"
     "@theme-ui/sidenav" "^0.3.1"
-    gatsby-plugin-mdx "^1.2.14"
-    gatsby-plugin-react-helmet "^3.3.3"
+    gatsby-plugin-mdx "^1.2.21"
+    gatsby-plugin-react-helmet "^3.3.8"
     gatsby-plugin-theme-ui "^0.3.0"
-    gatsby-plugin-typescript "^2.4.4"
-    gatsby-source-filesystem "^2.3.10"
+    gatsby-plugin-typescript "^2.4.10"
+    gatsby-source-filesystem "^2.3.16"
     is-absolute-url "^3.0.3"
-    re-resizable "^6.4.0"
+    re-resizable "^6.5.1"
     react-helmet "^6.1.0"
     theme-ui "^0.3.1"
 
-"@mdx-js/mdx@^1.6.5", "@mdx-js/mdx@^1.6.6":
+"@mdx-js/mdx@^1.6.6":
   version "1.6.6"
   resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.6.6.tgz#6e235f0ca47c8652f4c744cf7bc46a1015bcaeaa"
   integrity sha512-Q1j/RtjNbRZRC/ciaOqQLplsJ9lb0jJhDSvkusmzCsCX+NZH7YTUvccWf7l6zKW1CAiofJfqZdZtXkeJUDZiMw==
@@ -5435,7 +5435,7 @@ gatsby-page-utils@^0.2.14:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-mdx@^1.2.14:
+gatsby-plugin-mdx@^1.2.21:
   version "1.2.21"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.2.21.tgz#9f778181916b9d6f0a7b1735d86cffacd8be21ff"
   integrity sha512-RoMpr6lGYVZgx1GbdA0dpJRu+lt5SCP2qGFhF2r6fFrDkPPhgwbxyb/ZjcI1Nol3PC+Mh98tkJ/mNOPSyo7UTA==
@@ -5500,7 +5500,7 @@ gatsby-plugin-page-creator@^2.3.14:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-react-helmet@^3.3.3:
+gatsby-plugin-react-helmet@^3.3.8:
   version "3.3.8"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.3.8.tgz#e8efbc1d9ea98d6702d01effc6d381134f37aa7d"
   integrity sha512-K9X/LPUOw1f36jjMdNeIPPXTCTZGvF8Qfq9FIe0PuzHFfnESjxkchw6Rd9gB0/wQxSlvunIuEz0z13Vki2aRKw==
@@ -5512,7 +5512,7 @@ gatsby-plugin-theme-ui@^0.3.0:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.3.0.tgz#ab84216536ae45abe09a6edf24156b9dbf50d6a5"
   integrity sha512-Q2tS8EeYMy7AAtt6hvDtEsd1uwrLMjkDNqabyXhAo38AFoWQ0oKtq9u1YqbiRvp1TK06pAMPQQ3to48LAqc9Cw==
 
-gatsby-plugin-typescript@^2.4.10, gatsby-plugin-typescript@^2.4.4:
+gatsby-plugin-typescript@^2.4.10:
   version "2.4.10"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.4.10.tgz#a7aecb0a7f3fc8043be8a2fd9726f627f79c5731"
   integrity sha512-6GarHqQcuIXgbLDk71HgrAQ0pTi5IPngQY85T7edFXiZblOE4ZX5OJrjlllTN5RuqYd272QkJj8AvjA7BKPtjA==
@@ -5601,7 +5601,7 @@ gatsby-recipes@^0.1.46:
     ws "^7.3.0"
     xstate "^4.10.0"
 
-gatsby-source-filesystem@^2.3.10:
+gatsby-source-filesystem@^2.3.16:
   version "2.3.16"
   resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.3.16.tgz#58267ff1fc00e0a686ff8064b9be9f74965d02d9"
   integrity sha512-qXXUNPdfMSDTNvev3Jeeo4Qq0tDVLe5qfWkcLXxMCCnCivUm2FsICJN7LAGuN4x/kD8CrCn7g1xpRA07VtzS+Q==
@@ -9777,7 +9777,7 @@ rc@^1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-re-resizable@^6.4.0:
+re-resizable@^6.5.1:
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/re-resizable/-/re-resizable-6.5.1.tgz#a249130110f44c523c8ee7ad4b18a018b3b1863a"
   integrity sha512-cOeFKFasRFKs9Z5qf4BbNd6hJhTnrOC8isKpgCbZRm9WdZay1MXUxYqWA6hka5XIpZLQ/QupKjFWmjRLkk0bkw==
