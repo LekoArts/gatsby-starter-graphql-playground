@@ -1323,26 +1323,26 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lekoarts/gatsby-theme-graphql-playground@^1.1.16":
-  version "1.1.16"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-graphql-playground/-/gatsby-theme-graphql-playground-1.1.16.tgz#d07158831a69911788fa6b75f0677eb6f65fed17"
-  integrity sha512-cPFK+fsmHJ990YVdjWjEjc6J0WI3s669WlSDjQ8ho5a2aLvZ0/AfKubLizmUb+oSZYmUKXBHYhQL6j7TImLiNg==
+"@lekoarts/gatsby-theme-graphql-playground@^1.1.17":
+  version "1.1.17"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-graphql-playground/-/gatsby-theme-graphql-playground-1.1.17.tgz#36c969b6d11a91812a8b7feb37ec9281bde2a38e"
+  integrity sha512-zgE7qj+gyfklD8rl4TruYjfr+YGZriz6xmczRs9vfda9Jj/mV8Dx/zWQOxq7wkcwZDemPawLYIFEO7FGvSGeNA==
   dependencies:
-    "@mdx-js/mdx" "^1.6.18"
+    "@mdx-js/mdx" "^1.6.19"
     "@theme-ui/presets" "^0.3.0"
     "@theme-ui/prism" "^0.3.0"
     "@theme-ui/sidenav" "^0.3.1"
-    gatsby-plugin-mdx "^1.2.43"
-    gatsby-plugin-react-helmet "^3.3.12"
+    gatsby-plugin-mdx "^1.2.51"
+    gatsby-plugin-react-helmet "^3.3.14"
     gatsby-plugin-theme-ui "^0.3.0"
-    gatsby-plugin-typescript "^2.4.21"
-    gatsby-source-filesystem "^2.3.32"
+    gatsby-plugin-typescript "^2.4.24"
+    gatsby-source-filesystem "^2.3.35"
     is-absolute-url "^3.0.3"
-    re-resizable "^6.6.1"
+    re-resizable "^6.7.0"
     react-helmet "^6.1.0"
     theme-ui "^0.3.1"
 
-"@mdx-js/mdx@^1.6.18":
+"@mdx-js/mdx@^1.6.19":
   version "1.6.19"
   resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.6.19.tgz#a89522f53d0712691115b301a4fbd04933714a6f"
   integrity sha512-L3eLhEFnV/2bcb9XwOegsRmLHd1oEDQPtTBVezhptQ5U1YM+/WQNzx1apjzVTAyukwOanUXnTUMjRUtqJNgFCg==
@@ -6195,7 +6195,7 @@ gatsby-page-utils@^0.2.28:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
-gatsby-plugin-mdx@^1.2.43:
+gatsby-plugin-mdx@^1.2.51:
   version "1.2.51"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.2.51.tgz#d1285505026011bc3d75ae26d32cde9cab03d106"
   integrity sha512-wddtB88h4aHhS+tjNWYKT848S7LHuh2/svMg+7qdl0nL4D0tvNua76OUZxGUZDtkf0y8ajcAufps4qGeYA9mVQ==
@@ -6262,7 +6262,7 @@ gatsby-plugin-page-creator@^2.3.33:
     graphql "^14.7.0"
     lodash "^4.17.20"
 
-gatsby-plugin-react-helmet@^3.3.12:
+gatsby-plugin-react-helmet@^3.3.14:
   version "3.3.14"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.3.14.tgz#6eac5854e24d008352742783fe68817b18e24151"
   integrity sha512-5GsIVZIVOax2V9g1UL8row1TG3p2zPY2I+8Rq52H0R5xD9QoMTPde2Q4N0Y2td+qzfRdcfkbSj/kokK2I5owPw==
@@ -6274,7 +6274,7 @@ gatsby-plugin-theme-ui@^0.3.0:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.3.0.tgz#ab84216536ae45abe09a6edf24156b9dbf50d6a5"
   integrity sha512-Q2tS8EeYMy7AAtt6hvDtEsd1uwrLMjkDNqabyXhAo38AFoWQ0oKtq9u1YqbiRvp1TK06pAMPQQ3to48LAqc9Cw==
 
-gatsby-plugin-typescript@^2.4.21, gatsby-plugin-typescript@^2.4.24:
+gatsby-plugin-typescript@^2.4.24:
   version "2.4.24"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.4.24.tgz#c644d3919bd7460fc9b926b768cdf6c2f2f7b4e3"
   integrity sha512-BVfLYMgPafzY+bLQs7GaMLhZfAeEQPTcc36RhPL4H8/goun159Vp+KEVR7KXd3xi/a7ZgWX8YhnrcfLDbwCuwA==
@@ -6399,7 +6399,7 @@ gatsby-recipes@^0.2.33:
     yoga-layout-prebuilt "^1.9.6"
     yup "^0.27.0"
 
-gatsby-source-filesystem@^2.3.32:
+gatsby-source-filesystem@^2.3.35:
   version "2.3.35"
   resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.3.35.tgz#a64815f1c0bc1614519ec2dd1eef49629de6c2e5"
   integrity sha512-OHa7eDW9m/R8uIkAHpOZda517uT0yLPfLhZwEj3vqWgHRKg6bSghvKRDMQGmiD39EPur/Pl7JsotbFxGBRFRTQ==
@@ -10753,7 +10753,7 @@ rc@^1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-re-resizable@^6.6.1:
+re-resizable@^6.7.0:
   version "6.7.0"
   resolved "https://registry.yarnpkg.com/re-resizable/-/re-resizable-6.7.0.tgz#63324f0d2c8cd24fedda6bba5d638bd09c63ee6b"
   integrity sha512-uBrV59SZgxmZunL7MWoSnEKEfQW+GfevJqWqnA0slTe54Xbdfn1SgvUCP/C7Ak3hHkz3dSHN8xwpyapdx2Sgrw==
